@@ -15,12 +15,6 @@ A React refresher project built to revisit the fundamentals and strengthen my Re
 * Lists & `.map()`
 * Working with APIs
 
-## 🎥 Course Materials
-
-The course videos used during this refresher are included in the repository as a ZIP file.
-
-**Password:** `123`
-
 ## 🚀 Progress
 
 **React Refresher — Completed ✅**
